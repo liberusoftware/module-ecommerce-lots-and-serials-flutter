@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-lots-and-serials-flutter",
+  "capabilityKey": "planned:ecommerce:lots-and-serials",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_lots_and_serials_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/lots-and-serials.md",
+  "presentationPlan": "projects/ecommerce/flutter/lots-and-serials.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
